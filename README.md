@@ -2,6 +2,8 @@
 
 My microtonal Arduino MIDI instrument!
 
+_Originally published on 28 February 2020._
+
 ![Haptolin](images/cover.jpg)
 
 Haptolin is an Arduino-based, microtonal instrument / MIDI controller. The project is mainly inspired by:
