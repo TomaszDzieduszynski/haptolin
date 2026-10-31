@@ -2,8 +2,6 @@
 
 My microtonal Arduino MIDI instrument!
 
-_Originally published on 28 February 2020._
-
 ![Haptolin](images/cover.jpg)
 
 Haptolin is an Arduino-based, microtonal instrument / MIDI controller. The project is mainly inspired by:
@@ -94,5 +92,7 @@ The belt is a 30 mm wide elastic strap. On one side (next to the power bank) glu
 - [Thingiverse](https://www.thingiverse.com/thing:4190495)
 
 ## License
+
+Originally published on 28 February 2020.
 
 Haptolin by bzqp is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (CC BY 4.0). See [LICENSE](LICENSE).
